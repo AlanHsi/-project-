@@ -1,13 +1,11 @@
-/*
+
 let topic=[
     "課程介紹",
     "假日",
     "環境安裝 & Laba1",
     "Lab2 & Lab3",
     "Lab4"
-];*/
-
-let topic=[];
+];
 var bol1=0,bol2=0;
 
 $("#stbutton").on("click",function()
